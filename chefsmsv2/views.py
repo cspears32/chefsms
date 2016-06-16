@@ -8,9 +8,9 @@ from datetime import datetime, timedelta
 from django_twilio.decorators import twilio_view
 
 # Your Account Sid and Auth Token from twilio.com/user/account
-account_sid = "ACd10ebc779cad56b9b0aa33e5e821b73c"
-auth_token  = "e4ed20176d37fc96b05c4f3b48f4d1b5"
-CID="4144486479"
+account_sid = "####"
+auth_token  = "####"
+CID="####"
 #API="2010-04-01"
 #sms_path='/%s/Accounts/%s/SMS/Messages'%(API,account_sid) 
 client = TwilioRestClient(account_sid, auth_token)
