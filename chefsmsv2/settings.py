@@ -20,11 +20,11 @@ PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.9/howto/deployment/checklist/
 #twilio shit
-TWILIO_ACCOUNT_SID = 'ACd10ebc779cad56b9b0aa33e5e821b73c'
-TWILIO_AUTH_TOKEN = 'e4ed20176d37fc96b05c4f3b48f4d1b5'
+TWILIO_ACCOUNT_SID = '#####'
+TWILIO_AUTH_TOKEN = '#####'
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "6jins!pxn7y7&a0pc(mrsyoy!13nuhvc9!gu_^5h48(cf@%1t0"
+SECRET_KEY = "#######"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
