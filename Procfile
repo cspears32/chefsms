@@ -1,0 +1,1 @@
+web: gunicorn chefsmsv2.wsgi --log-file -
